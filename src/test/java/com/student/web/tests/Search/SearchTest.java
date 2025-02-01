@@ -19,7 +19,7 @@ public class SearchTest extends BaseTest{
 	   
 	   @Test(priority = 1)
 	   public void verifySearchFunctionality() throws InterruptedException{
-		   System.out.println("click on cross");
+		   System.out.println("modified");
 		   //searchPage.clickOnCrossIcon();
 		   System.out.println("click on cross cmpltd");
 		   searchPage.setMoveInDate("Mar", "2024","27");
